@@ -1,0 +1,11 @@
+{
+  "web": {
+    "client_id": "246630216830-j9iecpg0jh32hip7bsl4pqveasrh3ap0.apps.googleusercontent.com",
+    "project_id": "post-writer-432100",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": ["http://localhost:3000/api/auth/callback/google"]
+  }
+}
